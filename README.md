@@ -56,7 +56,6 @@
 </div>
 
 ###
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-[![](https://visitcount.itsvg.in/api?id=i-am-jillian&icon=0&color=4)](https://visitcount.itsvg.in)
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
