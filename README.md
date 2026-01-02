@@ -49,11 +49,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-am-jillian/i-am-jillian/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/i-am-jillian/i-am-jillian/output/pacman-contribution-graph.svg">
 </picture>
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=i-am-jillian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
 <div align="center">
