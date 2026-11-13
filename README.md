@@ -9,6 +9,8 @@
 👯 Open to collaborating on robotics & ML projects<br>
 ⚡ I love building systems where software meets hardware
 
+<br clear="right">
+
 ## 🌐 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-RoboticsByJill-8A2BE2?logo=github&logoColor=white)](https://i-am-jillian.github.io/RoboticsByJill/)
